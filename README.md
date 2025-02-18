@@ -25,7 +25,7 @@
 </div>
 
 ## 📊 GitHub 활동
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sefhuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sefhuk&layout=compact&theme=dracula)
 
 ## 📬 연락처
 <a href="mailto:ish775800@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=GMAIL&logoColor=white" height=22px></a>
